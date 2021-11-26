@@ -1,0 +1,1 @@
+TELNET is an abbreviation Telecommunication Network and is simply a connection protocol that allows a user to connect to a remote server that is listening for commands. Once the connection is established, the user can then issue commands to the server computer and examine the responses that are sent back. In general, TELNET uses 23 port for its command operations.
